@@ -4,6 +4,8 @@
 ;(println "Hello, World!")
 
 ;; "Variáveis" (em clojure tudo é constante)
+;; não precisa declarar o tipo (mas é bom)
+;; os tipos são verificados em tempo de execução
 (def nome "Gabriela")
 (def idade 95)
 
